@@ -1,0 +1,19 @@
+{
+  "name": "katas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GMaillo/katas.git"
+  },
+  "author": "Gabriel MS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GMaillo/katas/issues"
+  },
+  "homepage": "https://github.com/GMaillo/katas#readme"
+}
